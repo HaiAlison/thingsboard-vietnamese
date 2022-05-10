@@ -45,7 +45,7 @@
     "angular2-hotkeys": "^2.4.0",
     "canvas-gauges": "^2.1.7",
     "core-js": "^3.19.2",
-    "date-fns": "^2.26.0",
+    "date-fns": "^2.28.0",
     "flot": "git://github.com/thingsboard/flot.git#0.9-work",
     "flot.curvedlines": "git://github.com/MichaelZinsmaier/CurvedLines.git#master",
     "font-awesome": "^4.7.0",
